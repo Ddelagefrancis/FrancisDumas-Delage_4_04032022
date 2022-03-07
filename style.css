@@ -753,9 +753,11 @@ h4 {
     margin-top: 24px;
 }
 
+/* modif : suppression white pour contraste
 .white {
     color: #FFFFFF!important;
 }
+*/
 
 .portfolio-thumb {
     margin-bottom: 24px;
