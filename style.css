@@ -7,6 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+q { /* Modif : augmentation contraste*/
+    color: #252424;
+}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -651,7 +654,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #0f0f0f!important; /* Modif : augmentation contraste*/
 }
 
 .container {
