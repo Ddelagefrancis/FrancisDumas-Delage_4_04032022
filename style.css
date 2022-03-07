@@ -7,9 +7,18 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-q { /* Modif : augmentation contraste*/
+/* Modif : augmentation contraste */
+q { 
     color: #252424;
+    font-size: 20px;
+    font-style: italic;
 }
+.text-center p {
+    font-size: 20px;
+    color: #302d2d;
+}
+/* Modif : augmentation contraste END */
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -654,7 +663,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #0f0f0f!important; /* Modif : augmentation contraste*/
+    color: #0f0f0f; /* Modif : augmentation contraste et suppression de important*/
 }
 
 .container {
