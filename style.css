@@ -151,7 +151,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(59, 22, 5, 1); /* Modif Changement couleur contrast AA '7,3:1'*/
+    color: rgb(255, 255, 255); /* Modif Changement couleur contrast AA '7,3:1'*/
 }
 
 .d-bloc .a-btn:hover,
@@ -753,11 +753,11 @@ h4 {
     margin-top: 24px;
 }
 
-/* modif : suppression white pour contraste
+ 
 .white {
     color: #FFFFFF!important;
 }
-*/
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
