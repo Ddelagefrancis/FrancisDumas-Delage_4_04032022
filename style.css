@@ -695,12 +695,10 @@ a {
 }
 
 p {
-    font-size: 14px; /* Modif Augmentation taille police de 11 -> 13px */
+    font-size: 16px; /* Modif Augmentation taille police de 11 -> 13px */
 }
 
-.col-sm-12 p {
-    font-size: 16px;
-}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
