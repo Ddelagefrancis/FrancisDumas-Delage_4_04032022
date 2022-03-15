@@ -168,7 +168,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(59, 22, 5, 1); /* Modif Changement couleur contrast AA '7,3:1'*/
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -791,21 +791,22 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #A03300;
+    background-color: #983C11;
 }
 
 .tc-white {
     color: #ffffff!important;
 }
 
+/* Modif couleurs contrast */
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: rgba(59, 22, 5, 1);
+    background: #983C11;
+    color: #ffffff;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: rgba(59, 22, 5, 1)!important;
 }
 
 .ltc-white {
