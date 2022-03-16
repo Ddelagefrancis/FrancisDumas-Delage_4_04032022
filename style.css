@@ -151,7 +151,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgb(255, 255, 255); /* Modif Changement couleur contrast AA '7,3:1'*/
+    color: rgba(59, 22, 5, 1); /* Modif Changement couleur contrast AA '7,3:1'*/
 }
 
 .d-bloc .a-btn:hover,
@@ -168,7 +168,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(59, 22, 5, 1); /* Modif Changement couleur contrast AA '7,3:1'*/
+    color: #ffffff; /* Modif Changement couleur contrast AA '7,3:1'*/
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -741,7 +741,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white;
 }
 
 h4 {
@@ -755,7 +755,7 @@ h4 {
 
  
 .white {
-    color: #FFFFFF!important;
+    color: rgb(0, 0, 0);
 }
 
 
@@ -791,22 +791,24 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #983C11;
+    background-color: #f3976c;
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: #ffffff;
 }
-
+.color--contrast{
+    color: rgba(59, 22, 5, 1);
+}
 /* Modif couleurs contrast */
 .btn-atomic-tangerine {
-    background: #983C11;
-    color: #ffffff;
+    background: #f3976c;
+    color: rgba(59, 22, 5, 1);
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: rgba(59, 22, 5, 1)!important;
+    color: #ffffff!important;
 }
 
 .ltc-white {
